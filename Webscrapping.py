@@ -1,4 +1,4 @@
-
+#tool for solving challenge: https://www.wechall.net/en/challenge/training/programming1/index.php
 import requests
 
 cookies = dict(WC='11016446-16730-fffffff') #cookie of we chall from my pc
